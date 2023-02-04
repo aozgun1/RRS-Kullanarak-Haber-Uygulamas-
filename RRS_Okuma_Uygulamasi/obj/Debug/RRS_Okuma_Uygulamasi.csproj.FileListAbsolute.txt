@@ -1,0 +1,11 @@
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\bin\Debug\RRS_Okuma_Uygulamasi.exe.config
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\bin\Debug\RRS_Okuma_Uygulamasi.exe
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\bin\Debug\RRS_Okuma_Uygulamasi.pdb
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.Form1.resources
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.Properties.Resources.resources
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.exe
+C:\Users\Özgün\source\repos\SystemIOIslemleri\RRS_Okuma_Uygulamasi\RRS_Okuma_Uygulamasi\obj\Debug\RRS_Okuma_Uygulamasi.pdb
